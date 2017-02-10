@@ -10,3 +10,6 @@
 - Compare the classification results with and without these techniques
 
 ##Subtask 3 - Calibration and Naive Bayes extension
+- Adaboosting
+- Unknown tokens
+- Graham’s Method
